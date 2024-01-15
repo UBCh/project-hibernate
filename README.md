@@ -21,10 +21,10 @@
 
 ## реализовано
 - создана БД "rpg"
-- реализован ентити-класс  [com.game.entity.Player]()
-- реализован enam [com.game.entity.Profession]()
-- реализован enam [com.game.entity.Race]()
-- реализован репозиторий [com.game.repository.PlayerRepositoryDB]()
+- реализован ентити-класс  [com.game.entity.Player](https://github.com/UBCh/project-hibernate/blob/master/src/main/java/com/game/entity/Player.java)
+- реализован enam [com.game.entity.Profession](https://github.com/UBCh/project-hibernate/blob/master/src/main/java/com/game/entity/Profession.java)
+- реализован enam [com.game.entity.Race](https://github.com/UBCh/project-hibernate/blob/master/src/main/java/com/game/entity/Race.java)
+- реализован репозиторий [com.game.repository.PlayerRepositoryDB](https://github.com/UBCh/project-hibernate/blob/master/src/main/java/com/game/repository/PlayerRepositoryDB.java)
 - логирование запросов осуществляется p6spy
 
 
@@ -41,7 +41,7 @@
 - Скачать свою версию проекта к себе на компьютер.
 - Добавить конфигурацию запуска сервера через IDEA
 - запустить приложение 
-- в Workbench выполнить [скрипт]()
+- в Workbench выполнить [скрипт](https://github.com/UBCh/project-hibernate/blob/master/src/main/resources/init.sql)
 - обновить страницу
 
 
