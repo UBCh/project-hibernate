@@ -26,6 +26,9 @@
 - реализован enam [com.game.entity.Race](https://github.com/UBCh/project-hibernate/blob/master/src/main/java/com/game/entity/Race.java)
 - реализован репозиторий [com.game.repository.PlayerRepositoryDB](https://github.com/UBCh/project-hibernate/blob/master/src/main/java/com/game/repository/PlayerRepositoryDB.java)
 - логирование запросов осуществляется p6spy
+- реализован функционал создание игрока
+- реализован функционал удаление игрока
+- реализован функционал редактирование игрока
 
 
 
